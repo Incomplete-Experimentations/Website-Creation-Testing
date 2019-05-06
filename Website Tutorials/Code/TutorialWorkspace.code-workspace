@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "Javascript Tutorial"
+		},
+		{
+			"path": "ES6 Tutorial"
+		},
+		{
+			"path": "HTML Tutorial"
+		},
+		{
+			"path": "HTML-CSS Website"
+		},
+		{
+			"path": "reactjs-tutorial"
+		},
+		{
+			"path": "base-template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML-CSS Website"
+	}
+}
