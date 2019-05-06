@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "cbt-rawhtml"
+		},
+		{
+			"path": "C:\\Users\\Joe\\Desktop\\Website Tutorials\\Code\\HTML-CSS Website"
+		},
+		{
+			"path": "C:\\Users\\Joe\\Desktop\\Website Tutorials\\Code\\reactjs-tutorial"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Chainbridge Tech Website Recreation"
+	}
+}
